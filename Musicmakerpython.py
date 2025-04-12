@@ -39,5 +39,6 @@ def Birthday():
     sine(frequency=656, duration=0.5)
     sine(frequency=c2, duration=0.5)
     sine(frequency=d2, duration=0.5)
+    sine(frequency=c2, duration=0.5)
 Birthday()
 
